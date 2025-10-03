@@ -15,7 +15,7 @@
 - **Developer / Owner:** **DataOne** (site developer and infrastructure operator)  
 - **Anchor Tenant:** **Nebius** – AI cloud company running GPU clusters  
 - **Total Planned IT Load:** **Up to 300 MW** (Phase 1 ≈ 100 MW; expandable with utility upgrades)  
-- **Go-Live Goal:** First capacity ~**Summer 2025** (developer cites ~20-week first phase build)
+- **Go-Live Goal:** First capacity ~Summer 2025 (developer cites ~20-week first phase build)
 
 ---
 
@@ -36,7 +36,7 @@
 ### Behind-the-Meter (BTM)
 - **Solar PV + Battery Energy Storage (BESS)** inside the campus fence feed IT loads first.  
 - **Grid tie** remains for backup and to supplement supply.  
-- BTM **does not mean off-grid** — the project still needs a **formal interconnection agreement** with VMEU.
+- BTM does not mean off-grid. The project still needs a **formal interconnection agreement** with VMEU.
 
 ### Distributed Generation (DG) Limits
 - **Current VMEU published caps:**  
