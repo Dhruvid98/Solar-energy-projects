@@ -144,7 +144,7 @@
 - DCD (Mar 2025): DataOne’s **20-week first phase** build  
 - VMEU DG Interconnection Rules: **≤4 MW/project, 50 MW system cap**  
 - NJ Bill **A5462**: ≥100 MW data center tariff initiative
-
-</details>
 - Local planning: air-cooling vs water-cooling preference
+</details>
+
 
