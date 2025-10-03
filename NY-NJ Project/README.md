@@ -1,3 +1,5 @@
+## Analysis of different Projects based on Solar energy in NY/NJ >=100MW 
+
 <details>
 <summary>DataOne × Nebius – Vineland, NJ AI Data Center</summary>
   
