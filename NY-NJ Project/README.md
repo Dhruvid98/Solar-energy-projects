@@ -1,5 +1,5 @@
 <details>
- <summary>DataOne × Nebius – Vineland, NJ AI Data Center</summary>
+<summary>DataOne × Nebius – Vineland, NJ AI Data Center</summary>
   
 # DataOne × Nebius – Vineland, NJ AI Data Center (Up to 300 MW)
 
